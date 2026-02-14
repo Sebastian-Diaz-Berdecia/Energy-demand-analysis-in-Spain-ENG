@@ -81,11 +81,11 @@ Comparing energy generation with relative humidity throughout the day reveals th
 
 ##
 
-* #### Generación a lo largo del día vs porcentaje de nubosidad:
+* #### Generation throughout the day vs. cloud cover percentage:
 <p align="center">
 <img width="605" height="336" alt="image" src="https://github.com/user-attachments/assets/57df3eca-e5db-41c8-a4e1-3cfb74a7f268" />
 </p>
-En este grafico podemos observar cómo es que se relacionan la generación solar a lo largo del día con el porcentaje de nubosidad. Claramente se puede evidenciar como en promedio, alrededor de las 09:00 a.m. el porcentaje de nubosidad comienza a disminuir y la cantidad de energía generada empieza a aumentar hasta alrededor de la 01:00 p.m. en donde a pesar de que el porcentaje de nubosidad sigue decreciendo, la energía generada empieza a disminuir. Esto ocurre principalmente debido a que el sol deja su cenit y empieza a ocultarse disminuyendo consigo la cantidad de radiación solar.
+This graph shows the relationship between solar energy generation throughout the day and cloud cover. It clearly demonstrates that, on average, around 9:00 a.m., cloud cover begins to decrease and the amount of energy generated starts to increase until around 1:00 p.m. At that point, even though cloud cover continues to decrease, the energy generated begins to decline. This occurs primarily because the sun leaves its zenith and begins to set, thus reducing the amount of solar radiation.
 
 
 ##
