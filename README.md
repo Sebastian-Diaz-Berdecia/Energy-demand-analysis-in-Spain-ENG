@@ -85,7 +85,7 @@ Comparing energy generation with relative humidity throughout the day reveals th
 <p align="center">
 <img width="605" height="336" alt="image" src="https://github.com/user-attachments/assets/57df3eca-e5db-41c8-a4e1-3cfb74a7f268" />
 </p>
-This graph shows the relationship between solar energy generation throughout the day and cloud cover. It clearly demonstrates that, on average, around 9:00 a.m., cloud cover begins to decrease and the amount of energy generated starts to increase until around 1:00 p.m. At that point, even though cloud cover continues to decrease, the energy generated begins to decline. This occurs primarily because the sun leaves its zenith and begins to set, thus reducing the amount of solar radiation.
+This graph shows the relationship between solar energy generation throughout the day and cloud cover. It clearly demonstrates that, on average, around 9:00 a.m. cloud cover begins to decrease and the amount of energy generated starts to increase until around 1:00 p.m. At that point, even though cloud cover continues to decrease, the energy generated begins to decline. This occurs primarily because the sun leaves its zenith and begins to set, thus reducing the amount of solar radiation.
 
 
 ##
