@@ -3,7 +3,7 @@
 The main objective of this project is to analyze the evolution of solar energy demand/generation in the five main cities of Spain (Madrid, Barcelona, ​​Bilbao, Valencia and Seville) during the period between 2015 and 2018, as well as how various climatic variables impact solar energy demand/generation throughout the day.
 
 
-## 🗂 Índice 
+## 🗂 Index
 
 * ### [Generación de energía solar vs Mes/hora del día.](https://github.com/Sebastian-Diaz-Berdecia/Energy-demand-analysis-in-Spain/blob/main/README.md#-generaci%C3%B3n-de-energ%C3%ADa-solar-vs-meshora-del-d%C3%ADa)
 * ### [Generación de energía solar vs Condiciones climaticas.](https://github.com/Sebastian-Diaz-Berdecia/Energy-demand-analysis-in-Spain/blob/main/README.md#-generaci%C3%B3n-de-energ%C3%ADa-solar-vs-condiciones-clim%C3%A1ticas)
@@ -49,36 +49,35 @@ Tal y como se puede apreciar entre los años 2015 y 2018, el año 2017 correspon
 
 ##
 
-* #### Comportamiento cíclico de la generación: 
+* #### Annual solar generation between 2015 and 2018:
 <p align="center">
 <img width="830" height="292" alt="image" src="https://github.com/user-attachments/assets/0b4111af-958d-486d-ac25-00268cdf46a0" />
 </p>
-Aquí podemos observar como la generación de energía solar presenta un comportamiento cíclico en donde la producción de energía se dispara en los meses de verano produciéndose así picos de generación todos los meses de julio desde el 2015 al 2018, mientras que los meses de invierno vemos como la generación disminuye presentándose los mínimos de generación entre los meses de enero y diciembre.
+Here we can observe how solar energy generation exhibits a cyclical behavior where energy production skyrockets in the summer months, producing generation peaks every July from 2015 to 2018, while in the winter months we see how generation decreases, with the lowest generation occurring between January and December.
 
 ##
 
-* #### Principales fuentes de energía: 
+* #### Main sources of energy:
 <p align="center">
 <img width="664" height="361" alt="image" src="https://github.com/user-attachments/assets/c5710174-6b6c-410e-8a9f-82aea171ecec" />
 </p>
-Dentro de los cuatro años entre 2015 y 2018, la energía solar nunca deja de posicionarse en el sexto lugar del top 7 de las principales fuentes de energía en España.
+Within the four years between 2015 and 2018, solar energy consistently ranked sixth in the top 7 energy sources in Spain.
 
 ##
 
-* #### Generación a lo largo del día: 
+* #### Generation throughout the day: 
 <p align="center">
 <img width="664" height="367" alt="image" src="https://github.com/user-attachments/assets/4a3f257b-c22c-42c7-bfd1-4e95b2a903e9" />
 </p>
-Se puede observar como a medida que se avanza hacia las 07:00 a.m. la generación de energía empieza a aumentar y alcanza su punto máximo entre las 12:00 p.m. y las 3:00 p.m. para después empezar a decrecer coincidiendo como se ha de esperar con la salida del sol en la mañana y con el cenit del día alrededor de las 12:00 p.m. - 01:00 p.m.
-
+It can be observed that as we move towards 7:00 a.m. energy generation begins to increase and reaches its peak between 12:00 p.m. and 3:00 p.m. after which it begins to decrease, coinciding as expected with sunrise in the morning and the zenith of the day around 12:00 p.m. - 1:00 p.m.
 
 ##
 
-* #### Generación a lo largo del día vs porcentaje de humedad: 
+* #### Generation throughout the day vs. humidity percentage:
 <p align="center">
 <img width="605" height="345" alt="image" src="https://github.com/user-attachments/assets/27735c04-6d94-4d6a-9372-4eaa3109981f" />
 </p>
-Al comparar el comportamiento de la generación de energía con el comportamiento del porcentaje de humedad relativa a lo largo de un día se puede observar que en general, alrededor de las 06:00 a.m. - 07:00 a.m. cuando el porcentaje de humedad relativa empieza a disminuir, la generación de energía empieza a aumentar. Por el contrario, alrededor de las 04:00 p.m. cuando el porcentaje de humedad empieza a subir la generación empieza a disminuir.
+Comparing energy generation with relative humidity throughout the day reveals that, generally, around 6:00 a.m. to 7:00 a.m. when relative humidity begins to decrease, energy generation starts to increase. Conversely, around 4:00 p.m. when humidity begins to rise, energy generation starts to decrease.
 
 ##
 
