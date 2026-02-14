@@ -1,6 +1,6 @@
 # 📊 Solar energy demand analysis and weather conditions in Spain
 
-El principal objetivo de este proyecto es analizar la evolución de la demanda/generación de energía solar en las cinco principales ciudades de España (Madrid, Barcelona, Bilbao, Valencia y Sevilla) durante el periodo comprendido entre los años 2015 y 2018, así como también la forma en la que diversas variables climáticas afectan la demanda/generación de la energía solar a lo largo del día.
+The main objective of this project is to analyze the evolution of solar energy demand/generation in the five main cities of Spain (Madrid, Barcelona, ​​Bilbao, Valencia and Seville) during the period between 2015 and 2018, as well as how various climatic variables impact solar energy demand/generation throughout the day.
 
 
 ## 🗂 Índice 
@@ -14,30 +14,30 @@ El principal objetivo de este proyecto es analizar la evolución de la demanda/g
 
 ---
 
-## 🎨 Generación de energía solar vs Mes/hora del día
+## 🎨 Solar energy generation vs. month/hour of day
 
 <img width="1394" height="739" alt="image" src="https://github.com/user-attachments/assets/08361018-e1b6-437d-bf96-773b40a81cae" />
 
 
-## 🎨 Generación de energía solar vs Condiciones climáticas
+## 🎨 Solar power generation vs. weather conditions
 
 
 <img width="1286" height="743" alt="image" src="https://github.com/user-attachments/assets/6a44f4b0-9431-4fbd-ae74-81a6a2aa975c" />
 
 
-## 🎨 Variación interanual de la generación de energía solar
+## 🎨 Year-on-year variation in solar energy generation
 
 
 <img width="1105" height="738" alt="image" src="https://github.com/user-attachments/assets/6dc4bfb5-d0e1-4221-928a-16e2f520f519" />
 
 
-## 🔍 Insights generación de energía solar 
+## 🔍 Solar power generation insights
 
-* #### Generación solar mensual entre 2015 y 2018: 
+* #### Monthly solar generation between 2015 and 2018: 
 <p align="center">
 <img width="830" height="284" alt="image" src="https://github.com/user-attachments/assets/0ad26d5b-fd72-4771-a661-c91e6df521af" />
 </p>
-Como se puede observar, los meses en los que se produce la mayor generación de energía solar es entre los meses de junio y agosto teniendo el pico de generación en el mes de julio. Estos meses corresponden a los meses de verano, meses con la mayor incidencia de radiación solar.
+As can be seen, the months with the highest solar energy generation are between June and August, with the peak occurring in July. These months correspond to the summer months, which have the highest levels of solar radiation.
 
 ##
 
