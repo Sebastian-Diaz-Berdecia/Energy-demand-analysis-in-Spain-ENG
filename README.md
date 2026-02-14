@@ -41,15 +41,15 @@ As can be seen, the months with the highest solar energy generation are between 
 
 ##
 
-* #### Generación solar anual entre 2015 y 2018: 
+* #### Annual solar generation between 2015 and 2018:
 <p align="center">
 <img width="830" height="299" alt="image" src="https://github.com/user-attachments/assets/1955f0c2-8700-4772-8c85-2441a6214204" />
 </p>
-Tal y como se puede apreciar entre los años 2015 y 2018, el año 2017 corresponde al año en donde se produjo el pico de generación de energía solar.
+As can be seen between the years 2015 and 2018, 2017 corresponds to the year in which the peak of solar energy generation occurred.
 
 ##
 
-* #### Annual solar generation between 2015 and 2018:
+* #### Cyclical behavior of solar generation:
 <p align="center">
 <img width="830" height="292" alt="image" src="https://github.com/user-attachments/assets/0b4111af-958d-486d-ac25-00268cdf46a0" />
 </p>
