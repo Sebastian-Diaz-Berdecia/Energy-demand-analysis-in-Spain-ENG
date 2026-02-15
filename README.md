@@ -108,13 +108,13 @@ As can be seen in this graph, when comparing the average temperature throughout 
 Here you can see how energy generation changes from year to year. In general, in 2016 compared to 2015, all cities experienced a decrease in energy generation; in 2017 compared to 2016, generation increased; and finally, in 2018 compared to 2017, it decreased again. These year-on-year variations in generation are very similar across all cities.
 
 
-## 📖 Conclusión 
+## 📖 Conclusion
 
-En base a las relaciones observadas entre las variables atmosféricas y la generación solar, podemos concluir que el porcentaje de humedad y la temperatura media a lo largo del día son las variables que mayor repercusión tienen sobre la generación de energía solar. Una disminución pronunciada en el porcentaje de humedad conlleva a un aumento significativo de la generación solar, mientras que un aumento de la temperatura implica un aumento de la generación solar.
+Based on the observed relationships between atmospheric variables and solar power generation, we can conclude that humidity and average daily temperature are the variables with the greatest impact on solar energy generation. A sharp decrease in humidity leads to a significant increase in solar power generation, while an increase in temperature also leads to an increase in solar power generation.
 
-En base a esto se puede inferir una fuerte correlación entre ambas variables y la generación solar, pero sería precipitado concluir que existe una relación causal, ya que como se sabe, la temperatura influye en el porcentaje de humedad a lo largo del día y a su vez, la temperatura depende de la cantidad de luz solar (o radiación solar) a lo largo del día por lo que realmente la generación va a depender principalmente de la hora del día y de la estación del año. Sin embargo, podemos concluir que una estimación del porcentaje de humedad y la temperatura media pueden servir como buenos elementos para predecir el comportamiento de la generación de energía solar y así estimar la demanda a futuro ya que ambas variables están relacionadas a los niveles de radiación solar.
+Based on this, a strong correlation between both variables and solar power generation can be inferred, but it would be premature to conclude that a causal relationship exists. As is known, temperature influences humidity throughout the day, and in turn, temperature depends on the amount of sunlight (or solar radiation) throughout the day. Therefore, solar power generation will primarily depend on the time of day and the season. However, we can conclude that estimating humidity and average temperature can serve as useful tools for predicting solar power generation patterns and thus estimating future demand, since both variables are related to levels of solar radiation.
 
-Cabe resaltar también la importancia de la estación del año y su impacto directo en los niveles de radiación solar y por ende también en la temperatura media, por lo que un buen análisis predictivo de la generación debería también incluir esta variable.
+It is also important to highlight the significance of the season and its direct impact on solar radiation levels and therefore also on average temperature, so a good predictive analysis of generation should also include this variable.
 
 
 
