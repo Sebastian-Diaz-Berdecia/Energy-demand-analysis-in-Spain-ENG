@@ -90,11 +90,11 @@ This graph shows the relationship between solar energy generation throughout the
 
 ##
 
-* #### Generación a lo largo del día vs temperatura promedio: 
+* #### Generation throughout the day vs. average temperature: 
 <p align="center">
 <img width="605" height="346" alt="image" src="https://github.com/user-attachments/assets/4fe26798-9df3-4403-b705-4f91f4d015df" />
 </p>
-Como se puede observar en este gráfico, al comparar la temperatura media a lo largo del día con la generación solar podemos observar que la generación de energía va en consonancia con la temperatura media; sube la temperatura y con ello aumenta la generación, disminuye la temperatura y en consecuencia también lo hace la generación.
+As can be seen in this graph, when comparing the average temperature throughout the day with solar generation, we can observe that energy generation is in line with the average temperature; the temperature rises and with it, generation increases, and the temperature decreases and consequently, so does generation.
 
 
 ##
