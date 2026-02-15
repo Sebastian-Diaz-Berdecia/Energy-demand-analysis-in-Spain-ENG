@@ -5,11 +5,11 @@ The main objective of this project is to analyze the evolution of solar energy d
 
 ## 🗂 Index
 
-* ### [Solar energy generation vs. month/hour of day.](https://github.com/Sebastian-Diaz-Berdecia/Energy-demand-analysis-in-Spain/blob/main/README.md#-generaci%C3%B3n-de-energ%C3%ADa-solar-vs-meshora-del-d%C3%ADa)
-* ### [Solar power generation vs. weather conditions.](https://github.com/Sebastian-Diaz-Berdecia/Energy-demand-analysis-in-Spain/blob/main/README.md#-generaci%C3%B3n-de-energ%C3%ADa-solar-vs-condiciones-clim%C3%A1ticas)
-* ### [Year-on-year variation in solar energy generation.](https://github.com/Sebastian-Diaz-Berdecia/Energy-demand-analysis-in-Spain/blob/main/README.md#-variaci%C3%B3n-interanual-de-la-generaci%C3%B3n-de-energ%C3%ADa-solar)
-* ### [Solar power generation insights.](https://github.com/Sebastian-Diaz-Berdecia/Energy-demand-analysis-in-Spain/blob/main/README.md#-insights-generaci%C3%B3n-de-energ%C3%ADa-solar)
-* ### [Conclusion.](https://github.com/Sebastian-Diaz-Berdecia/Energy-demand-analysis-in-Spain/blob/main/README.md#-conclusi%C3%B3n)
+* ### [Solar energy generation vs. month/hour of day.](https://github.com/Sebastian-Diaz-Berdecia/Energy-demand-analysis-in-Spain-ENG/blob/main/README.md#-solar-energy-generation-vs-monthhour-of-day)
+* ### [Solar power generation vs. weather conditions.]()
+* ### [Year-on-year variation in solar energy generation.]()
+* ### [Solar power generation insights.]()
+* ### [Conclusion.]()
 
 
 ---
