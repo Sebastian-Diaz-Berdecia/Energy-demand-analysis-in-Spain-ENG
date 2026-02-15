@@ -99,13 +99,13 @@ As can be seen in this graph, when comparing the average temperature throughout 
 
 ##
 
-* #### Variación interanual de la generación por ciudad:
+* #### Year-on-year variation in generation by city:
 
 <p align="left">
 <img width="1256" height="622" alt="image" src="https://github.com/user-attachments/assets/a48c7610-b2ec-4324-b10d-fb6045024106" />
 </p>
 
-Aqui se puede observar como la generación de energía va cambiando de año a año. En general, en 2016 con respecto a 2015 en todas las ciudades se presenta una disminución de la generación de energía, en 2017 comparado con 2016 la generación aumenta y finalmente en 2018 con respecto a 2017 vuelve a disminuir. Estas variaciones interanuales de la generación son muy similares entre todas las ciudades.
+Here you can see how energy generation changes from year to year. In general, in 2016 compared to 2015, all cities experienced a decrease in energy generation; in 2017 compared to 2016, generation increased; and finally, in 2018 compared to 2017, it decreased again. These year-on-year variations in generation are very similar across all cities.
 
 
 ## 📖 Conclusión 
